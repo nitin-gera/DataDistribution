@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<network_details>
+	<input>
+			<input_details interface="eth0"		ip_address = "192.168.100.100"		port = "54678"></input_details>
+	</input>
+	<output>
+			<output_details interface="eth0"		ip_address = "192.168.100.101"		port = "54679"></output_details>
+			<output_details interface="eth0"		ip_address = "192.168.100.102"		port = "54680"></output_details>
+	</output>
+</network_details>
